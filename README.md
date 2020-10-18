@@ -9,6 +9,7 @@ this part of the readme serves as a simple version of GitHub's projects 'n issue
 
 note to self: remember to open access to edit the wiki (under settings for this repo)
 
-should probably move to github pages, to make a simple experimental game database...
+should probably move to github pages, to make a simple experimental game database...  
+well, it's also quite cool to just have one giant file and use control+f to find what you want. In this way, none of the data hidden, so that's pretty cool!
 
 [todo: pull from the wiki (rahil627.github.io/experimental-game-anarchy) to push to the site's repo (/docs)]
