@@ -1,7 +1,7 @@
 ![](image.jpg?raw=true)
 
 W E LL C0mE :) :)  
-to  
+to
 ### rathewolf's experimental game anarchy
 
 It's a digital anarchist diy community interested in the research and development of E X P E R I M E N T A L games
