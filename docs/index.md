@@ -1,4 +1,4 @@
-W E LL COmE :)
+W E LL C0mE :)
 [](image.jpg)
 ### rathewolf's experimental game anarchy
 
