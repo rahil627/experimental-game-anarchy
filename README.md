@@ -7,7 +7,7 @@ It is a digital anarchist diy community interested in the research and developme
 
 come 'n hang out at [the discord!](https://discord.gg/BsUq9n3)\
 if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)\
-if that sucks, you can halp make [the site](https://ega.rathewolf.com)?\
+if that sucks, you can halp make [the site](https://ega.rathewolf.com)?
 
 #### notes
 this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
