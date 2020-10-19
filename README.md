@@ -1,12 +1,17 @@
-W E LL C0mE\
 ![](image.jpg?raw=true)
+
+W E LL C0mE :) :)  
+to  
 ### rathewolf's experimental game anarchy
 
-It is a digital anarchist diy community interested in the research and development of experimental games
+It's a digital anarchist diy community interested in the research and development of  
+E X P E R I M E N T A L games
+
+whoa.
 
 come 'n hang out at [the discord!](https://discord.gg/BsUq9n3)\
-if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)\
-if that sucks, you can halp make [the site](https://ega.rathewolf.com)?
+or if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)\
+or if that sucks, maybe you can halp make [the site](https://ega.rathewolf.com)??, together!
 
 #### notes
 this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
