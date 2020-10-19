@@ -1,17 +1,16 @@
 ![](image.jpg?raw=true)
 
-W E LL C0mE :) :)  
+W E LL C 0m E :) :)  
 to  
 ### rathewolf's experimental game anarchy
-
-It's a digital anarchist diy community interested in the research and development of  
+a digital community interested in the research and development of  
 E X P E R I M E N T A L games
 
-whoa.
+probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, vapor-ware, vapor-wave, mods, Earthbound, Mr. Saturn, Super Mario RPG, child-like, caring, loving.
 
 come 'n hang out at [the discord!](https://discord.gg/BsUq9n3)\
 or if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)\
-or if that sucks, maybe you can halp make [the site](https://ega.rathewolf.com)??, together!
+or if that sucks, maybe you can halp make [the site](https://ega.willowolf.com)??, together!
 
 #### notes
 this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
