@@ -1,6 +1,5 @@
-W E LL COmE\
-T0\
-tHe SiGHT 4
+W E LL C0mE\
+![](image.jpg?raw=true)
 ### rathewolf's experimental game anarchy
 
 It is a digital anarchist diy community interested in the research and development of experimental games
