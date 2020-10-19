@@ -1,4 +1,4 @@
-#### mountain willowolf: the way of experimental games
+#### rathewolf's experimental game anarchy: the way of experimental games
 is a digital anarchist diy community interested in the research and development of experimental games
 
 come 'n hang out at [the discord!](https://discord.gg/BsUq9n3)  
