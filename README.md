@@ -12,8 +12,6 @@ or if that's empty, you can read 'n contribute to [the wiki](https://github.com/
 or if that sucks, maybe you can halp make [the site](https://ega.willowolf.com)??, together!
 
 #### notes
-this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off.
-
 note to self: remember to open access to edit the wiki (under settings for this repo)
 
 should probably move to github pages, to make a simple experimental game database...  
