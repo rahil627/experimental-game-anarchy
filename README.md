@@ -1,6 +1,3 @@
-*currently, the site is generated using the contents from [my repo for willowolf](https://github.com/Rahil627/willowolf). In the future, i'll move the contents back here, and generate the site using this repo.*
-
-# temp web-site
 ![](image.jpg?raw=true)
 
 W E LL C 0m E :) :)  
