@@ -11,10 +11,11 @@ come 'n hang at [the discord!](https://discord.gg/BsUq9n3)
 or if that's empty, you can read 'n even contribute to [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
 or if that sucks, maybe you can halp make this site!!, together(!), [here, at the willowolf repo](https://github.com/Rahil627/willowolf/)! the site's contents are in the ega folder  
 
-#### notes
+# notes
 wouldn't it be nice... to have a simple experimental game database...?    
-well, it's also quite cool to just have one giant file and use control+f to find what you want. In this way, none of the data hidden!
+  - well, it's also quite cool to just have one giant file and use control+f to find what you want. In this way, none of the data hidden!
 
 todo:  
 auto pull from the wiki (rahil627.github.io/experimental-game-anarchy) to push to the site's repo (/docs)?
   - :O the ultimate simple public wiki solution!
+  - ...or could create a folder linked to the contents of the wiki repo
