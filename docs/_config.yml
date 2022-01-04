@@ -13,8 +13,6 @@ header_pages: # top nav bar
   - index.md
 # - about.md
 style: dark # dark (default), light or hacker
-listen_for_clients_preferred_style: true # false (default) or true
+# listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'a willowolf of rathewolf'
-
-google_analytics: UA-NNNNNNNN-N
+footer: 'a willowolf of <a href="https://rathewolf.com">rathewolf</a>'
