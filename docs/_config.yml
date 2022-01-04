@@ -12,7 +12,7 @@ remote_theme: b2a3e8/jekyll-theme-console # jekyll/minima # force remote downloa
 header_pages: # top nav bar
   - index.md
 # - about.md
-style: dark # dark (default), light or hacker
+# style: dark # dark (default), light or hacker
 # listen_for_clients_preferred_style: true # false (default) or true
 
 footer: 'a willowolf of <a href="https://rathewolf.com">rathewolf</a>'
