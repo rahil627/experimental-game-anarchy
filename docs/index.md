@@ -13,4 +13,4 @@ probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclus
 
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 or if that's empty, you can *read or halp make* the [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
-or if that sucks, maybe you can *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/), together(!)! You just have to ask for permission.
+or if that sucks, maybe you can *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/), together(!), you just have to ask for permission
