@@ -1,15 +1,20 @@
-![](image.jpg?raw=true)
+# copied from the web-site's home-page
+---
+permalink: /experimental/
+---
+
+![](docs/earthbound-mr-saturns.jpg?raw=true)
 
 W E LL C 0m E :) :)  
 to  
-# experimental game anarchy: a willowolf
+# the way of experimental games: an experimental game anarchy: a willowolf
 a rad anarchist diy digital space for people with a passion for e x p e r i m e n t a l games.
 
-probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, vapor-ware, vapor-wave, mods, Earthbound, Mr. Saturn, Super Mario RPG, child-like, caring, loving.
+probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, likes mods and modding and customizing everything(!), loves Mr. Saturn and Robo and Princess Peach, child-like, caring, loving.
 
-come 'n hang at [the discord!](https://discord.gg/BsUq9n3)  
-or if that's empty, you can read 'n even contribute to [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
-or if that sucks, maybe you can halp make this site!!, together(!), [here, on the repo](https://github.com/Rahil627/experimental-game-anarchy/)! you can either request for pulls or better yet: i can just give permission to edit them directly
+*come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
+or if that's empty, you can *read or halp make* the [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
+or if that sucks, maybe you can *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/), together(!)! You just have to ask for permission.
 
 # notes
 wouldn't it be nice... to have a simple experimental game database...?    
