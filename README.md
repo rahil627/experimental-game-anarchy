@@ -1,7 +1,4 @@
-# copied from the web-site's home-page
----
-permalink: /experimental/
----
+*(copied from the web-site's home-page)*
 
 ![](docs/earthbound-mr-saturns.jpg?raw=true)
 
