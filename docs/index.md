@@ -14,3 +14,5 @@ probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclus
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
 *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/), together(!), *note:* you just have to ask for permission
+
+hrmm.. i'm not sure if a forum is necessary for this project... it's so experimental that people are likely to be more interactive, and a forum just isn't interactive enough!
