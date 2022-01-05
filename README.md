@@ -17,7 +17,8 @@ or if that sucks, maybe you can *halp make* [*this* web-site](https://github.com
 wouldn't it be nice... to have a simple experimental game database...?    
   - well, it's also quite cool to just have one giant file and use control+f to find what you want. In this way, none of the data hidden!
   - an even better idea: a social discovery site (like Letterboxd) for games! let the people create their favorite game lists
-    - try https://ggapp.io
+    - https://www.resetera.com/threads/we-are-getting-closer-to-a-letterboxd-for-games.91719/
+      - try https://ggapp.io and igdb.com
 
 todo:  
 auto pull from the wiki (rahil627.github.io/experimental-game-anarchy) to push to the site's repo (/docs)?
