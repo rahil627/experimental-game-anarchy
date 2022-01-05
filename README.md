@@ -1,4 +1,4 @@
-*(copied from the web-site's home-page)*
+*(copied from the web-site's home-page, likely out-dated)*
 
 ![](docs/earthbound-mr-saturns.jpg?raw=true)
 
