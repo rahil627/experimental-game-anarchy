@@ -10,8 +10,8 @@ remote_theme: b2a3e8/jekyll-theme-console # jekyll/minima # force remote downloa
 
 # console theme specific stuff
 # style: dark # dark (default, ascii art game like black 'n white), light or hacker
-header_pages: # top nav bar
-  - index.md
+#header_pages: # top nav bar
+#  - index.md
 # - about.md
 # listen_for_clients_preferred_style: true # false (default) or true
 
