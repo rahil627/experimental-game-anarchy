@@ -3,7 +3,7 @@
 remote_theme: b2a3e8/jekyll-theme-console # jekyll/minima # force remote download to get the most recent version, which has skins
 
 # these two vars don't exist in jekyll-theme-console, will throw an error!
-# title: experimental game anarchy: the art and way of experimental games
+#title: saturn valley #experimental game anarchy: the art and way of experimental games
 # description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 # minima theme stuff
