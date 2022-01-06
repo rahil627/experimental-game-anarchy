@@ -1,18 +1,19 @@
-# title: experimental game anarchy: the art and way of experimental games
-# description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 # theme: jekyll-theme-midnight
-
 # ascii art theme! :)
 remote_theme: b2a3e8/jekyll-theme-console # jekyll/minima # force remote download to get the most recent version, which has skins
+
+# these two vars don't exist in jekyll-theme-console, will throw an error!
+# title: experimental game anarchy: the art and way of experimental games
+# description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 #minima:
 #  skin: solarized-dark
 
 # console theme specific stuff
 # style: dark # dark (default, ascii art game like black 'n white), light or hacker
-#header_pages: # top nav bar
-#  - index.md
+header_pages: # top nav bar
+  - index.md
 # - about.md
 # listen_for_clients_preferred_style: true # false (default) or true
 
-#footer: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+footer: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
