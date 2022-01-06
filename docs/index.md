@@ -1,5 +1,5 @@
 ---
-title: 'S A T U R N   V A L L E Y'
+title: 's a t u r n   v a l l e y'
 ---
 
 ![](earthbound-mr-saturns.jpg?raw=true)
