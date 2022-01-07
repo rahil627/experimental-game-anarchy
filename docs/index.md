@@ -11,6 +11,8 @@ title: 's a t u r n   v a l l e y'
 </midi-player>
 
 ```
+public main() {
+function void main(boolean success) {
 W E LL C 0m E :) :)  
 to
 # saturn valley: *the art and way of experimental games*
@@ -22,4 +24,7 @@ probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclus
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
 *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/), together(!), *note:* you just have to ask for permission  
 (*todo: add a Discourse forum?*)
+
+return maybe;
+}}
 ```
