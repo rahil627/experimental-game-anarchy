@@ -15,4 +15,6 @@ header_pages: # top nav bar
   - 404.md #lol
 # listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+footer-left: ''
+footer-center: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+footer-right: ''
