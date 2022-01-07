@@ -10,6 +10,10 @@ title: 's a t u r n   v a l l e y'
 <midi-player src="https://magenta.github.io/magenta-js/music/demos/melody.mid">
 </midi-player>
 
+
+extensions)
+
+{% highlight ruby %}
 <pre>
 ~~~
 //standard markdown '```' not working, mmust use '~~~'??
@@ -17,6 +21,7 @@ public main() {
 function void main(boolean fail) {
 ~~~
 </pre>
+{% endhighlight %}
 W E LL C 0m E :) :)  
 to
 # saturn valley: *the art and way of experimental games*
