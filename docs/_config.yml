@@ -17,5 +17,5 @@ header_pages: # top nav bar
 
 footer: <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
 
-#markdown: kramdown
+markdown: kramdown
 highlighter: rouge
