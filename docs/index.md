@@ -25,7 +25,7 @@ loves Mr. Saturn and Robo and Princess Peach, child-like, caring, loving
 }
 ```
 
-```c
+```csharp
 private function void halp!!!(bool fail) {
 ```
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
