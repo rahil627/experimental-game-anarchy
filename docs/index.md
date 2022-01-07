@@ -14,9 +14,10 @@ title: 's a t u r n   v a l l e y'
 extensions)
 
 {% highlight ruby %}
+```
 public main() {
 function void main(boolean fail) {
-{% endhighlight %}
+```
 W E LL C 0m E :) :)  
 to
 # saturn valley: *the art and way of experimental games*
