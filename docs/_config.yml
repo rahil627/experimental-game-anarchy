@@ -9,7 +9,7 @@ title: saturn valley #experimental game anarchy: the art and way of experimental
 # description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 # console theme specific stuff
-# style: light # dark (default, ascii art game like black 'n white), hacker (console terminal green), light
+style: light # dark (default, ascii art game like black 'n white), hacker (console terminal green), light
 header_pages: # top nav bar
   - index.md
   - 404.md #lol
