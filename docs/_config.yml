@@ -12,7 +12,7 @@ title: saturn valley #experimental game anarchy: the art and way of experimental
 # style: dark # dark (default, ascii art game like black 'n white), light or hacker
 header_pages: # top nav bar
   - index.md
-# - about.md
+  - 404.md #lol
 # listen_for_clients_preferred_style: true # false (default) or true
 
 footer: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
