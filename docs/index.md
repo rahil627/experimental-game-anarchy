@@ -29,8 +29,10 @@ together(!), *note: must ask for permission*
 }
 ```
 
-```ruby
+```csharp
 private function void moar!!(bool fail) {
+```
+```ruby
 *silly*, *playful*, *ridiculous yet serious*, cute, rad,
 inclusive, leader-less (anarchy), punk (DIY), scrappy!,
 enjoys s t r a n g e things, likes mods and modding and customizing everything(!),
