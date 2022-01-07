@@ -13,7 +13,7 @@ title: 's a t u r n   v a l l e y'
 
 ```cpp
 public main() {
-function booliuhn main() {
+function bool main() {
 ```
 ```ruby
 W E LL C 0m E :) :)  
@@ -28,7 +28,7 @@ halp();
 return maybe?;
 }}
 
-private function halp!!!(boolean success) {
+private function halp!!!(bool fail) {
 ```
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
