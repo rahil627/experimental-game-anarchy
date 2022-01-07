@@ -13,9 +13,9 @@ title: 's a t u r n   v a l l e y'
 
 ```cpp
 public main() {
-function void main(boolean fail) {
+function booliuhn main() {
 ```
-```markdown
+```ruby
 W E LL C 0m E :) :)  
 to
 # saturn valley: *the art and way of experimental games*
@@ -23,16 +23,17 @@ a rad project and digital communal space for passionate people that <3s e x p e 
 
 probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, likes mods and modding and customizing everything(!), loves Mr. Saturn and Robo and Princess Peach, child-like, caring, loving
 ```
-```ruby
-halp()
-return maybe;
+```c
+halp();
+return maybe?;
 }}
 
 private function halp!!!(boolean success) {
 ```
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
-*halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/), together(!), *note:* you just have to ask for permission  
+*halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/)  
+together(!), *note: must ask for permission*
 (*todo: add a Discourse forum?*)
 ```python
 return yes, please;
