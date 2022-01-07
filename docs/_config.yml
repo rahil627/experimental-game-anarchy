@@ -1,7 +1,8 @@
 # theme: jekyll-theme-midnight
+#remote_theme: jekyll/minima #force remote download to get the most recent version, which has skins
 # ascii art theme! :)
-remote_theme: rahil627/jekyll-theme-console-custom # jekyll/minima # force remote download to get the most recent version, which has skins
-#remote-theme: rahil627/minima-custom # i won't ever rememeber to update my forked version :(
+remote_theme: rahil627/jekyll-theme-console-custom #not updated for years! should just use minima and edit the style file
+#remote-theme: rahil627/minima-custom #i won't ever rememeber to update my forked version :(
 
 # these two vars don't exist in jekyll-theme-console, will throw an error!
 title: saturn valley #experimental game anarchy: the art and way of experimental games
