@@ -15,12 +15,14 @@ title: 's a t u r n   v a l l e y'
 public main() {
 function void main(boolean fail) {
 ```
+```markdown
 W E LL C 0m E :) :)  
 to
 # saturn valley: *the art and way of experimental games*
 a rad project and digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, likes mods and modding and customizing everything(!), loves Mr. Saturn and Robo and Princess Peach, child-like, caring, loving
+```
 ```ruby
 halp()
 return maybe;
