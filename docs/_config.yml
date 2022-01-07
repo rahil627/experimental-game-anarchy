@@ -1,6 +1,6 @@
 # theme: jekyll-theme-midnight
 # ascii art theme! :)
-remote_theme: b2a3e8/jekyll-theme-console # jekyll/minima # force remote download to get the most recent version, which has skins
+remote_theme: rahil627/jekyll-theme-console-custom # jekyll/minima # force remote download to get the most recent version, which has skins
 #remote-theme: rahil627/minima-custom # i won't ever rememeber to update my forked version :(
 
 # these two vars don't exist in jekyll-theme-console, will throw an error!
