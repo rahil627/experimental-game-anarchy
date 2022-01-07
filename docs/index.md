@@ -16,9 +16,9 @@ W E LL C 0m E :) :)
 to
 # saturn valley: *the art and way of experimental games*
 a rad project and digital communal space for passionate people that<3s
-e x p e r i m e n t a l games
+e x p e r i m e n t a l games  
 ```
-
+  
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
 *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/)  
