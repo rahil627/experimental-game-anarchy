@@ -1,5 +1,5 @@
 ---
-title: 's a t u r n   v a l l e y'
+title: 's a t u r n   v a l l e y: the art and way of experimental games'
 ---
 
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0">
@@ -12,7 +12,9 @@ title: 's a t u r n   v a l l e y'
 public function hullow(){
 W E LL C 0m E :) :)  
 to
-# saturn valley: *the art and way of experimental games*
+```
+# saturn valley
+```ruby
 a rad project and digital communal space for passionate people that<3s
 e x p e r i m e n t a l games  
 ```
