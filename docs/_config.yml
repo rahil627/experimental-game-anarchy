@@ -5,7 +5,7 @@ remote_theme: rahil627/jekyll-theme-console-custom #not updated for years! shoul
 #remote-theme: rahil627/minima-custom #i won't ever rememeber to update my forked version :(
 
 # these two vars don't exist in jekyll-theme-console, will throw an error!
-title: 'saturn valley: the art and way of experimental games'
+title: 'saturn valley: the art / way of experimental games'
 # description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 # console theme specific stuff
