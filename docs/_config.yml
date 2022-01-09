@@ -1,9 +1,10 @@
-# theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 #remote_theme: jekyll/minima #force remote download to get the most recent version, which has skins
+#remote-theme: rahil627/minima-custom #i won't ever rememeber to update my forked version :(
 # ascii art theme! :)
 remote_theme: rahil627/console-custom-jekyll-theme #not updated for years! should just use a barebones theme and edit the style file
-#remote-theme: rahil627/minima-custom #i won't ever rememeber to update my forked version :(
 
+# standard vars
 # these two vars don't exist in jekyll-theme-console, will throw an error!
 title: 'saturn valley: the art, design, 'n way of experimental games'
 # description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
@@ -17,6 +18,7 @@ header_pages: # top nav bar
 
 footer: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
 
+# code highlighting
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
     # Use GitHub flavored markdown, including triple backtick fenced code blocks
