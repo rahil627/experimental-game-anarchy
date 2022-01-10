@@ -16,7 +16,7 @@ to
 # saturn valley
 ```ruby
 a rad project and digital communal space for passionate people that
-<3s
+<3s  
 e x p e r i m e n t a l games  
 ```  
   
