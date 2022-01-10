@@ -6,7 +6,7 @@ remote_theme: rahil627/console-custom-jekyll-theme #not updated for years! shoul
 
 # standard vars
 # these two vars don't exist in jekyll-theme-console, will throw an error!
-title: 'saturn valley: the art, design, 'n way of experimental games'
+title: "saturn valley: the art, design, 'n way of experimental games"
 # description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 # console theme specific stuff
