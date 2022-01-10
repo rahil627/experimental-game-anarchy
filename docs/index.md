@@ -22,10 +22,6 @@ e x p e r i m e n t a l games
 
 ![](earthbound-mr-saturns.jpg?raw=true)  
 
-<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=https://soundcloud.com/ohuto/have-you-guys-ever-noticed-that-robos-theme-kinda-sounds-like-that-one-rick-astley-song" style="width: 32px; height: 32px;"></iframe>
-
-
-
   
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
