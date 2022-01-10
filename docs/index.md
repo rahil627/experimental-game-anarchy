@@ -23,8 +23,6 @@ e x p e r i m e n t a l games
   
 ![](earthbound-mr-saturns.jpg?raw=true)  
 
-<iframe src="https://open.spotify.com/embed/track/1Oc8JFIZEYedXNMWZDpV0B" width="300" height="80" frameborder="0" allowtransparency="false" allow="encrypted-media"></iframe>
-
   
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
