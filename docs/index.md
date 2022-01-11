@@ -30,7 +30,7 @@ e x p e r i m e n t a l games
 together(!), *note: must ask for permission*
 (*todo: add a Discourse forum?*)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/ohuto/have-you-guys-ever-noticed-that-robos-theme-kinda-sounds-like-that-one-rick-astley-song"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url="https%3A//api.soundcloud.com/ohuto/have-you-guys-ever-noticed-that-robos-theme-kinda-sounds-like-that-one-rick-astley-song"></iframe>
 
 ```c
 }
