@@ -5,7 +5,7 @@ title: 's a t u r n   v a l l e y: the art and way of experimental games'
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0">
 </script>
 
-
+<!-- the theme is blocking it for some reason... works fine in the default theme -->
 <midi-player src="https://magenta.github.io/magenta-js/music/demos/melody.mid">
 </midi-player>
 
@@ -30,6 +30,7 @@ e x p e r i m e n t a l games
 together(!), *note: must ask for permission*
 (*todo: add a Discourse forum?*)
 
+<!-- the theme is blocking it for some reason... works fine in the default theme -->
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=ohuto/have-you-guys-ever-noticed-that-robos-theme-kinda-sounds-like-that-one-rick-astley-song"></iframe>
 
 ```c
