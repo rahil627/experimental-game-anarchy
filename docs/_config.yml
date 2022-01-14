@@ -1,6 +1,3 @@
-#theme: jekyll-theme-midnight
-#remote_theme: jekyll/minima #force remote download to get the most recent version, which has skins
-#remote-theme: rahil627/minima-custom #i won't ever rememeber to update my forked version :(
 # ascii art theme! :)
 remote_theme: rahil627/console-jekyll-theme-customized #not updated for years! should just use a barebones theme and edit the style file
 
