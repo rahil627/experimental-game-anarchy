@@ -25,6 +25,7 @@ e x p e r i m e n t a l games
 
   
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
+*come 'n discuss* at [the forums](https://github.com/rahil627/experimental-game-anarchy/discussions)  
 *halp make* [the wiki](https://github.com/Rahil627/experimental-game-anarchy/wiki)  
 *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/)  
 together(!), *note: must ask for permission*
