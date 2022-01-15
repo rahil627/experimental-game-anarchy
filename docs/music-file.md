@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'midi'
+title: 'robo.mid'
 tags: my-stuff
 ---
 
