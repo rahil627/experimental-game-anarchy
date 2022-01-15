@@ -7,7 +7,7 @@ title: 's a t u r n   v a l l e y: the art and way of experimental games'
 </script>
 
 <!-- the console theme is blocking it for some reason... works fine in the default theme -->
-<midi-player src="/robo.mid">
+<midi-player src="/robos-theme.mid">
 </midi-player>
 
 public function hullow(){
