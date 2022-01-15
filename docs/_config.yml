@@ -1,5 +1,8 @@
 # ascii art theme! :)
-remote_theme: rahil627/console-jekyll-theme-customized #not updated for years! should just use a barebones theme and edit the style file
+# remote_theme: rahil627/console-jekyll-theme-customized #not updated for years! should just use a barebones theme and edit the style file
+
+remote_theme: rahil627/windows-95
+
 
 # standard vars
 # these two vars don't exist in jekyll-theme-console, will throw an error!
@@ -7,13 +10,14 @@ title: "saturn valley: dao of experimental games"
 # description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
 # console theme specific stuff
-style: dark # dark (default, ascii art game like black 'n white), hacker (console terminal green), light
-header_pages: # top nav bar
-  - index.md
-  - 404.md #lol
-# listen_for_clients_preferred_style: true # false (default) or true
+#style: dark # dark (default, ascii art game like black 'n white), hacker (console terminal green), light
+#header_pages: # top nav bar
+#  - index.md
+#  - 404.md #lol
 
-footer: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
+## listen_for_clients_preferred_style: true # false (default) or true
+
+# footer: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
 
 # code highlighting
 # Jekyll 3 now only supports Kramdown for Markdown
