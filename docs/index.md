@@ -14,8 +14,6 @@ to
 a rad project and digital communal space for passionate people that  
 <3  
 e x p e r i m e n t a l games  
-
-![](earthbound-mr-saturns.jpg?raw=true)  
   
 *come 'n hang out* at [the discord!](https://discord.gg/BsUq9n3)  
 *come 'n discuss* at [the forums](https://github.com/rahil627/experimental-game-anarchy/discussions)  
