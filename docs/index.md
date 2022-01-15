@@ -30,8 +30,6 @@ e x p e r i m e n t a l games
 *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/)  
 together(!), *note: must ask for permission*
 
-<!-- the theme is blocking it for some reason... works fine in the default theme -->
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=ohuto/have-you-guys-ever-noticed-that-robos-theme-kinda-sounds-like-that-one-rick-astley-song"></iframe>
 
 ```c
 }
