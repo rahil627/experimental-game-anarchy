@@ -6,7 +6,7 @@ title: 's a t u r n   v a l l e y: the art and way of experimental games'
 </script>
 
 <!-- the theme is blocking it for some reason... works fine in the default theme -->
-<midi-player src="https://magenta.github.io/magenta-js/music/demos/melody.mid">
+<midi-player src="/robostheme.mid">
 </midi-player>
 
 ```ruby
