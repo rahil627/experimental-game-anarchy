@@ -1,5 +1,8 @@
 ---
+layout: default
 title: 's a t u r n   v a l l e y: the art and way of experimental games'
+tags: my-stuff
+---
 ---
 
 <!-- have midi player play something cool! :) -->
