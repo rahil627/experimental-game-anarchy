@@ -20,6 +20,10 @@ wouldn't it be nice... to have a simple experimental game database...?
     - https://www.resetera.com/threads/we-are-getting-closer-to-a-letterboxd-for-games.91719/
       - try https://ggapp.io and igdb.com
 
+# themes:
+https://github.com/h01000110/windows-95
+https://github.com/b2a3e8/jekyll-theme-console
+
 ## forums?
 hrmm.. i’m not sure if a forum (Discourse) is necessary for this project… it’s so experimental that people are likely to be more interactive, and a forum just isn’t interactive enough! Or, perhaps, it's useful for non-real-time interactions, as people are often so busy...
 
