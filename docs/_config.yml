@@ -7,10 +7,27 @@ remote_theme: rahil627/windows-95
 # standard vars
 # these two vars don't exist in jekyll-theme-console, will throw an error!
 title: "saturn valley: dao of experimental games"
-# description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
+description: a rad digital communal space for passionate people that <3s e x p e r i m e n t a l games
 
-# windows 95 theme stuff
-# todo!!!
+# windows 95 theme specific vars
+permalink: /:title
+url: https://experimental.willowolf.com
+baseurl: /
+
+# variables
+#title: already set
+#description: already set
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
 
 # console theme specific stuff
 #style: dark # dark (default, ascii art game like black 'n white), hacker (console terminal green), light
