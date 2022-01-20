@@ -21,6 +21,15 @@ e x p e r i m e n t a l games
 *halp make* [*this* web-site](https://github.com/Rahil627/experimental-game-anarchy/)  
 together(!), *note: must ask for permission*
 
+<!-- have midi player play something cool! :) -->
+<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0">
+</script>
+
+<!-- the console theme is blocking it for some reason... works fine in the default theme -->
+<midi-player src="/robos-theme.mid">
+</midi-player>
+
+
 ```cpp
 }
 private function void moar!!(bool fail) {
