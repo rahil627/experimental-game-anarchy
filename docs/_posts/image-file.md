@@ -1,6 +1,6 @@
 ---
 layout: default
 title: 'earthbound.jpg'
-tag: tag3
+tag: music
 ---
 ![](earthbound-mr-saturns.jpg?raw=true)
