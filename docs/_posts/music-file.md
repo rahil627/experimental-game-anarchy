@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'robo.mid'
-tags: music
+tags: music, tag
 ---
 
 <!-- have midi player play something cool! :) -->
