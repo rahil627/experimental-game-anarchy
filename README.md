@@ -24,6 +24,9 @@ wouldn't it be nice... to have a simple experimental game database...?
 https://github.com/h01000110/windows-95
 https://github.com/b2a3e8/jekyll-theme-console
 
+maybe ascii art is the way to go..
+  - https://briankhuu.com/blog/self/2015/01/14/css-style-for-ascii-art.html
+
 ## forums?
 hrmm.. i’m not sure if a forum (Discourse) is necessary for this project… it’s so experimental that people are likely to be more interactive, and a forum just isn’t interactive enough! Or, perhaps, it's useful for non-real-time interactions, as people are often so busy...
 
